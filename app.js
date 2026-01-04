@@ -1,1 +1,1 @@
-alert("uh-oh!")
+console.log("all fixed")
